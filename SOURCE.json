@@ -1,0 +1,33 @@
+{
+  "brand": "Ателье Гусейновой Л. Н.",
+  "short_brand": "Гусейнова",
+  "slug": "guseynova-atelier-design-demo",
+  "email": "lyacha64@mail.ru",
+  "phone": "+79057136514",
+  "phone_display": "+7 905 713-65-14",
+  "address": "Таганская улица, 25/27, ТЦ «Европа»",
+  "city": "Москва",
+  "telegram": null,
+  "source_urls": [
+    "https://asktel.ru/moskva/atele_mehovoe/atele_12/",
+    "https://www.orgpage.ru/moskva/metro-taganskaya/poshiv-odezhdy-i-obuvi/",
+    "https://xn--n1alf.xn--24-6kci4amthgkj1f.xn--80asehdb/москва/организация_Ателье-ИП-Гусейнова-ЛН"
+  ],
+  "contacted": false,
+  "spreadsheet_row": null,
+  "verified_on": "2026-10-30",
+  "email_evidence": "Public company-directory email with exact matching named proprietor/address/phone. Independent directory repeats same email+phone+address, Orgpage lists same active atelier identity.",
+  "email_source_date": "2019-12-25",
+  "confidence": "medium",
+  "website_status": "No own website found in exact proprietor/email/address searches or checked directory contacts.",
+  "caveats": [
+    "Public email deliverability not tested; first directory last edited2019-12-25."
+  ],
+  "contacted_evidence": "NewbusinessoutsideCollaboration; absentfromknownlocalcontactedexamples; parentmustcheckYandexSentbeforecreatingdraft.",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "guseynova-atelier-design-demo"
+}
